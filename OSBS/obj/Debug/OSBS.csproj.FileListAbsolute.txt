@@ -1,0 +1,28 @@
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\bin\Debug\OSBS.exe.config
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\bin\Debug\OSBS.exe
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\bin\Debug\OSBS.pdb
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.csprojResolveAssemblyReference.cache
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Dashboard.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Form1.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Properties.Resources.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.csproj.GenerateResource.Cache
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.exe
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.pdb
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Student_Information.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Accounts.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Access.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Course.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\obj\Debug\OSBS.Registration.resources
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\bin\Debug\Login.mdf
+C:\Users\leteb\Documents\Visual Studio 2013\Projects\OSBS\OSBS\bin\Debug\Login_log.ldf
+D:\OSBS\OSBS\bin\Debug\OSBS.exe.config
+D:\OSBS\OSBS\obj\Debug\OSBS.exe
+D:\OSBS\OSBS\obj\Debug\OSBS.pdb
+D:\OSBS\OSBS\obj\Debug\OSBS.csprojResolveAssemblyReference.cache
+D:\OSBS\OSBS\obj\Debug\OSBS.Access.resources
+D:\OSBS\OSBS\obj\Debug\OSBS.Accounts.resources
+D:\OSBS\OSBS\obj\Debug\OSBS.Dashboard.resources
+D:\OSBS\OSBS\obj\Debug\OSBS.Form1.resources
+D:\OSBS\OSBS\obj\Debug\OSBS.Registration.resources
+D:\OSBS\OSBS\obj\Debug\OSBS.Student_Information.resources
+D:\OSBS\OSBS\obj\Debug\OSBS.csproj.GenerateResource.Cache
